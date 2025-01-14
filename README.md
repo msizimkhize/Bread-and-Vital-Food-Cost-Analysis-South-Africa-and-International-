@@ -3,7 +3,7 @@
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
 
 ***
-#### Abstract
+## Abstract
 This is an inspeciton of food costs for persons residing in South Africa, as well as other nations. The four nations are to be evaluated in terms of the pricing against the universal mark, which is US dollars in this case study, wherefrom insights into the sales of bread in South Africa will be drawn.
 
 The analysis was done in consideration of the prevalence of the unemployment vouchers, UIF, distributed by the South African government over the course of the years of interest.
@@ -55,7 +55,7 @@ write.csv(df1, "bread_za_dataframe.csv")
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true)
 
 ***
-#### Insights and Conclusion
+## Insights and Conclusion
 
 The prices, within the feasible margin, are at a unanimous steady increase, with the cost of eggs taking the steapest increase toward the latter months, in the mid of 2020.
 
