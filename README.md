@@ -67,6 +67,9 @@ The milk and potato market also saw an increase in sale pricings over the term, 
 
 With all factors taken into account, the global market, as well as the South African, as seen in the bread_za_dataframe CSV, are to take into account the effectiveness of steady price incriments, and that within the context of unprecedented global catastrophy.
 ***
+
+![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/F7379CRZGZ4Z.jpeg?raw=true)
+
 #### Reach Out on LinkedIn
 
 ![](https://raw.githubusercontent.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/b567ed529300d59fa217a1de87dad558d7912406/IMG/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e.svg)
