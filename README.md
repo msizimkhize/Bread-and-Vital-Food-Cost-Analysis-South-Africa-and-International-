@@ -38,10 +38,11 @@ df1 %>%
 ```
 We preview the data frame
 ```
-head(df1, 15)
+head(df1, 10)
 ```
 
-![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/crop%20headers.png?raw=true)
+![image](https://github.com/user-attachments/assets/9836c2f8-b3e0-4bc2-80cc-bc054d6317a0)
+
 
 Finally, we export the exacted CSV
 
