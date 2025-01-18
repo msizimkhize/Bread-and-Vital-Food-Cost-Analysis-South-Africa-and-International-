@@ -49,9 +49,17 @@ write.csv(df1, "bread_za_dataframe.csv")
 ```
 
 ***
-##### II) The sale price is visualised against time for the vital foods over the span 2018–2022 
+##### II) Using Tableau, the sale price is visualised against time for the vital foods over the span 2018–2022 
 
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true)
+
+Using Google Spreadsheet, the visualisations below were obtained from the dataset.
+
+![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
+
+![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
+
+![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
 
 ***
 ## Insights and Conclusion
