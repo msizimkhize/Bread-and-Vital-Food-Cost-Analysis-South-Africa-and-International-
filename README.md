@@ -53,12 +53,12 @@ write.csv(df1, "bread_za_dataframe.csv")
 
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true)
 
-Using Google Spreadsheet, the visualisations below were obtained from the dataset.
+Using Google Spreadsheet, the visualisations for bread prices within South Africa were obtained from the dataset.
 
 ![](https://github.com/user-attachments/assets/41ce2101-5e02-44ff-a165-0e558e255fba)
 
 
-![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
+![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Screenshot_2025-01-18_00_05_44.png?raw=true)
 
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
 
