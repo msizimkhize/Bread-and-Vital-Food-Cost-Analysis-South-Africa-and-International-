@@ -55,7 +55,8 @@ write.csv(df1, "bread_za_dataframe.csv")
 
 Using Google Spreadsheet, the visualisations below were obtained from the dataset.
 
-![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
+![](https://github.com/user-attachments/assets/41ce2101-5e02-44ff-a165-0e558e255fba)
+
 
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/bread.png?raw=true
 
