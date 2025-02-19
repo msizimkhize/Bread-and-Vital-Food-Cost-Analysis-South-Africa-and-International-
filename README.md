@@ -28,8 +28,6 @@ install.packages("dplyr", dependencies = TRUE)
 library(readr)
 library(dplyr)
 
-head(df1, 5)
-
 df1 <- Food_Prices %>%
   select (Country, Year, Month, `Food Item`, `Average Price`, Availability) %>%
   filter(Country == 'South Africa', 'Food Item' = 'Bread', Availability == 1) %>%
