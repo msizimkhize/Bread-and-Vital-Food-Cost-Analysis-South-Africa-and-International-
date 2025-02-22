@@ -65,7 +65,20 @@ write.csv(df1, "bread_za_dataframe.csv")
 
 Using Google Spreadsheet, the visualisations for bread prices within South Africa were obtained from the dataset.
 
-![](https://github.com/user-attachments/assets/41ce2101-5e02-44ff-a165-0e558e255fba)
+||2018|2019|2020|2021|2022|
+|---|---|---|---|---|---|
+|1|12.57|13.19|13.75|14.21|14.88|
+|2|12.62|13.24|13.79|14.26|14.97|
+|3|12.67|13.28|13.83|14.32|15.07|
+|4|12.73|13.33|13.87|14.38|15.17|
+|5|12.78|13.38|13.91|14.43|15.26|
+|6|12.83|13.43|13.94|14.49|15.36|
+|7|12.88|13.47|13.98|14.54|15.45|
+|8|12.93|13.52|14.02|14.6|15.55|
+|9|12.98|13.57|14.06|14.66|15.64|
+|10|13.04|13.61|14.1|14.71|15.74|
+|11|13.09|13.66|14.13|14.77|15.83|
+|12|13.14|13.71|14.17|14.82|15.93|
 
 
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Screenshot_2025-01-18_00_05_44.png?raw=true)
