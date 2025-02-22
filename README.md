@@ -39,7 +39,7 @@ head(df1, 10)
 
 |Country|Year|Month|'Food Item'|'Average Price'|
 |---|---|---|---|---|
-| <chr> | <dbl> | <dbl> | <chr> | <dbl> |
+| \<chr> | \<dbl\> | <dbl> | <chr> | <dbl> |
 |South Africa|2018|1|Bread|12.6|
 |South Africa|2018|2|Bread|12.6|
 |South Africa|2018|3|Bread|12.7|
