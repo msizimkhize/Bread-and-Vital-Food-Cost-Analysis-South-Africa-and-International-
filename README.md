@@ -37,7 +37,19 @@ We preview the data frame
 head(df1, 10)
 ```
 
-![image](https://github.com/user-attachments/assets/9836c2f8-b3e0-4bc2-80cc-bc054d6317a0)
+|Country|Year|Month|'Food Item'|'Average Price'|
+|---|---|---|---|---|
+|_<chr>_|_<dbl>_|_<dbl>_|_<chr>_|_<dbl>_|
+|South Africa|2018|1|Bread|12.6|
+|South Africa|2018|2|Bread|12.6|
+|South Africa|2018|3|Bread|12.7|
+|South Africa|2018|4|Bread|12.7|
+|South Africa|2018|5|Bread|12.8|
+|South Africa|2018|6|Bread|12.8|
+|South Africa|2018|7|Bread|12.9|
+|South Africa|2018|8|Bread|12.9|
+|South Africa|2018|9|Bread|13.0|
+|South Africa|2018|10|Bread|13.0|
 
 
 Finally, we export the exacted CSV
