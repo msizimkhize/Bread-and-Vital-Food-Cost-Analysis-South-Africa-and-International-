@@ -90,7 +90,7 @@ Using Google Spreadsheet, the visualisations for bread prices within South Afric
 
 The prices, within the feasible margin, are at a unanimous steady increase, with the cost of eggs taking the steapest increase toward the latter months, in the mid of 2020.
 
-Contasting all food types against the bread, being the topmost item, demonstrates the sales only being significantly impacted by the Covid-19 lockdown, where the demand for bread was not significantly impacted for the worse. The demand for eggs is likely to have grown, given that meals were prodominantly homemade, and eggs had curative properties for those who were infected without comorbidities.
+Contrasting all food types against the bread, being the topmost item, demonstrates the sales only being significantly impacted by the Covid-19 lockdown, where the demand for bread was not significantly impacted for the worse. The demand for eggs is likely to have grown, given that meals were predominantly homemade, and eggs had curative properties for those who were infected without comorbidities.
 
 The bread sales of South Africa should be sure to account for the prevalence of unemployment and inflation, such that other food types are not proportionally increased, or that the bread market be prone to considering other vital foods for nourishment, given how basic the UIF compensation is.
 
