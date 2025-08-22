@@ -4,7 +4,7 @@
 
 ***
 ## Abstract
-This is an inspeciton of food costs for persons residing in South Africa, as well as other nations. The four nations are to be evaluated in terms of the pricing against the universal mark, which is US dollars in this case study, wherefrom insights into the sales of bread in South Africa will be drawn.
+This is an inspection of food costs for persons residing in South Africa, as well as other nations. The four nations are to be evaluated in terms of the pricing against the universal mark, which is US dollars in this case study, wherefrom insights into the sales of bread in South Africa will be drawn.
 
 The analysis was done in consideration of the prevalence of the unemployment vouchers, UIF, distributed by the South African government over the course of the years of interest.
 
