@@ -1,10 +1,9 @@
-# Bread and Vital Food Cost Analysis: South Africa and International (Spreadsheet Visualisations)
-
+# Bread and Vital Food Cost Analysis: South Africa and International (Business Insights)
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
 
 ***
 ## Abstract
-This is an inspection of food costs for persons residing in South Africa, as well as other nations. The four nations are to be evaluated in terms of the pricing against the universal mark, which is US dollars in this case study, wherefrom insights into the sales of bread in South Africa will be drawn.
+This is an analysis of food costs as would be presented to persons residing in South Africa, as well as internationally. The four nations Australia, Sweden, Japan and South Africa are to be evaluated in terms of their pricing pricing the foods against the US dollar, serving as the control in the analysis, from where insights into the sales of bread in South Africa will be drawn. The outcome of the project will present the most economical food price per country, as well as what actions are to be taken in the retail industry to optimise the sales of costly vital foods.
 
 The analysis was done in consideration of the prevalence of the unemployment vouchers, UIF, distributed by the South African government over the course of the years of interest.
 
@@ -91,7 +90,7 @@ Using Google Spreadsheet, the visualisations for bread prices within South Afric
 ***
 ## Insights and Conclusion
 
-The prices, within the feasible margin, are at a unanimous steady increase, with the cost of eggs taking the steapest increase toward the latter months, in the mid of 2020.
+The prices, within the feasible margin, are at a unanimous steady increase, with the cost of eggs taking the steapest increase toward the latter months, in the mid of 2020. 
 
 Contrasting all food types against the bread, being the topmost item, demonstrates the sales only being significantly impacted by the Covid-19 lockdown, where the demand for bread was not significantly impacted for the worse. The demand for eggs is likely to have grown, given that meals were predominantly homemade, and eggs had curative properties for those who were infected without comorbidities.
 
