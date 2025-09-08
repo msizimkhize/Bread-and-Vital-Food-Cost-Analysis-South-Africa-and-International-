@@ -3,17 +3,20 @@
 
 ***
 ## Abstract
-This is an analysis of food costs as would be presented to persons residing in South Africa, as well as internationally. The four nations Australia, Sweden, Japan and South Africa are to be evaluated in terms of their pricing pricing the foods against the US dollar, serving as the control in the analysis, from where insights into the sales of bread in South Africa will be drawn. The outcome of the project will present the most economical food price per country, as well as what actions are to be taken in the retail industry to optimise the sales of costly vital foods.
 
-The analysis was done in consideration of the prevalence of the unemployment vouchers, UIF, distributed by the South African government over the course of the years of interest.
+This is a business intelligence data analysis project on costs of South African vital food items, as obtained from a five-nation summary database, such that insights may be obtained from the time lapse on how to address food scarcity in South Africa, owing to mass unemployment.
+The data will be considered over a span of four years, beginning at the start of 2018 and ending at the end of the year 2022.
+
+Since the database contains data features for five nations, the data will be preprocessed and filtered to acquire the dataset from which the analysis will be conducted, being the subset containing South African metrics. The greatest importance will be placed on the fiscal impact posed by bread on the sales of vital food costs, since it is the single most purchased vital food item globally. The statistic will also inform the actions to be considered most feasible, with the rising tide of youth dependent on the unemployment insurance fund (UIF), as well as the economic challenges posed by this.
+
+The rising unemployment rates will also inform what the best prospective business ventures should be, based on the selling price of vital food costs, and the quality-of-life demographics of South Africans beyond the four years analysed.
+
+The vital foods to be evaluated are bread, eggs, milk and potatoes. The dataset from which South African metrics were obtained initially consisted of the five countries, Australia, Sweden, Japan, Canada and South Africa.
 
 The data was prepared:
 - Zip folder containing dataset
 - https://www.kaggle.com/datasets/sumangoda/food-prices
 - Bread and vital food cost: five-nation analysis (2018-2022)
-
-The data is indeed limited, in that it only spans the eleven-year period. The data had to remain encrypted and entirely anonymous, as to ensure safety for the persons who reported the crimes herein contained.
-
 
 ***
 ##### I) The data is processed using R and Python
@@ -90,15 +93,22 @@ Using Google Spreadsheet, the visualisations for bread prices within South Afric
 ***
 ## Insights and Conclusion
 
-The prices, within the feasible margin, are at a unanimous steady increase, with the cost of eggs taking the steapest increase toward the latter months, in the mid of 2020. 
+As informed by the data visible on the Google spreadsheet of this report, the price of bread, effective January of each year, increased by 4.93238% between 2018 and 2019, by 4.24564% between 2019 and 2020, 3.34545% between 2020 and 2021, and 4.71499% between 2021 and 2022.
 
-Contrasting all food types against the bread, being the topmost item, demonstrates the sales only being significantly impacted by the Covid-19 lockdown, where the demand for bread was not significantly impacted for the worse. The demand for eggs is likely to have grown, given that meals were predominantly homemade, and eggs had curative properties for those who were infected without comorbidities.
+As is visible on the Tableau chart, the price of bread remained more-or-less constant throughout the span of the four years, with the least variance lying between 2020 and 2021, as is evident in the horizontal slope. This surge is a likely consequence of the reduction of bread sales at the onset of Covid-19 restrictions. The UIF supplied by the South African government saw no drastic price shift in the bread prices, especially compared to the four remaining vital foods. Since bread is the most consumed of these items, the South African economy was in best practice to not have the bread prices surge. 
 
-The bread sales of South Africa should be sure to account for the prevalence of unemployment and inflation, such that other food types are not proportionally increased, or that the bread market be prone to considering other vital foods for nourishment, given how basic the UIF compensation is.
+As is evident on the Tableau chart, the foods which have taken on the most price changes are eggs, followed by milk and potatoes. 
 
-The milk and potato market also saw an increase in sale pricings over the term, with potatoes having a more positive trend than milk.
+The demand of eggs grew considerably from the end of 2019 onwards, likely to the association of eggs with positive recovery of those infected with Covid-19, as was vastly publicised in the media following the rise of the pandemic. 
 
-With all factors taken into account, the global market, as well as the South African, as seen in the bread_za_dataframe CSV, are to take into account the effectiveness of steady price incriments, and that within the context of unprecedented global catastrophy.
+Additionally, the increment of the price of bread has a very strong correlation on a month-to-moth basis over the four years, as can be seen on the column chart on the cost of bread in South Africa over twelve months. The greatest increments of the bread price on a monthly basis was largely between the months June through December, with December having the highest growth in comparison to the previous year, as is best expressed in the plotting of the year 2022 on the scatter plot above.
+
+In addition to the contribution of Covid-19, the prices were affected by the yearly seasonal increments, as per the scatter plot. As such, businesses intent on establishing a lucrative pricing would best apply the increments starting July, and then exercise more liberty in the price increase at the end of the year, compared to the early half of the year. Since this trend has survived an established cycle over the four years, it would best be practiced in a way as to keeping at 4.5% of the price of the former year, beginning in January. 
+
+Based on the Tableau chart, the vital food items all show an increase in pricing comparable to that of bread, save the milk. Milk retailers may make use of the marginal annual increase in pricing to improve their sales, as with the other foods. Since milk is the only dairy item of the vital foods, it most likely has a market of foods within its category with which to compete, which lie outside of the scope of the food items assessed; as such, milk price increments are to be carried out at the discretion of the retailers.
+
+Potatoes showed a linear increase in pricing over the four years. This is more to do with the widespread use of potatoes amongst food retailers, processors and amongst the vastly impoverished of South Africa. Starchy foods are highly consumed amongst most South Africans, and they, along with other carbohydrate-saturated meals, form a staple food of the country. The pricing thus demonstrates the liberty at which price increases have increased, without an exponential trend at the onset of Covid-19. Such a food is thus the better investment option, given that the increase of sales still meets the wanting of the market, without being as sporadic as the price surge of eggs between 2020 and 2022.
+
 ***
 
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/F7379CRZGZ4Z.jpeg?raw=true)
