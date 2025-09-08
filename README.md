@@ -1,4 +1,4 @@
-# Analysis on Bread and Vital Food Costs of South Africa Analysis
+# Analysis on Bread and Vital Food Costs of South Africa
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
 
 ***
