@@ -1,4 +1,4 @@
-# Bread and Vital Food Cost Analysis: South Africa (Business Insights)
+# Bread and Vital Food Cost Analysis: South Africa (Business Intelligence)
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
 
 ***
