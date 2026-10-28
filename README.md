@@ -1,4 +1,4 @@
-# Business Intelligence Analysis on Bread and Vital Food Costs of South Africa (Global Datasets)
+# Global Food Index
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
 
 ***
