@@ -1,4 +1,4 @@
-# Bread and Vital Food Cost BI Analysis: South Africa and Global (2018/2022)
+# Bread and Vital Food Cost BI Analysis: South Africa and International (2018/2022)
 ![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
 
 ***
