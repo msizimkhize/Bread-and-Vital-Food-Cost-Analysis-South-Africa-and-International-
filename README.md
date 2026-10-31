@@ -1,7 +1,7 @@
 # Bread and Vital Food Cost BI Analysis: South Africa and International (2018/2022)
-![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true)
+<!--![](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-/blob/main/IMG/Mosbolletjie-Bread-1200x800.jpg?raw=true) -->
 
-***
+<!--***-->
 ## Abstract
 
 This is a business intelligence data analysis project on costs of South African vital food items, as obtained from a five-nation summary database, such that insights may be obtained from the time lapse on how to address food scarcity in South Africa, owing to mass unemployment.
